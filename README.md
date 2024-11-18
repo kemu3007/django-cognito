@@ -1,0 +1,1 @@
+Sample project for opt in Cognito to Django Authentication.
